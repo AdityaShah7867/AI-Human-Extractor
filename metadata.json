@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Image Editor",
+  "description": "An application that allows users to edit images using text prompts with Gemini. Users can upload an image, provide an editing instruction, and generate a new version of the image with the requested changes applied.",
+  "requestFramePermissions": []
+}
